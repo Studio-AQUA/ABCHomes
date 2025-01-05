@@ -1,0 +1,30 @@
+/* Global */
+body {
+    margin: 0;
+    line-height: normal;
+    align-items: center;
+}
+.logo {
+    position: relative;
+    text-transform: uppercase;
+}
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flex-start {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+
