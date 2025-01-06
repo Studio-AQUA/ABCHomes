@@ -642,6 +642,7 @@
     border-radius: 60px;
     height: 211px;
     object-fit: cover;
+    border: 1px solid #4DB7FE;
 }
 .were-proud-of {
     margin: 0;
