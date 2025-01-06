@@ -1393,6 +1393,8 @@
     position: relative;
     height: 140px;
     object-fit: cover;
+    border: 1px solid #4DB7FE;
+    border-radius: 30;
 }
 .call-562-445-1240 {
     margin: 0;
