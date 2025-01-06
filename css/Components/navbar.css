@@ -275,7 +275,7 @@ li {
     display: inline-block;
     flex-shrink: 0;
 }
-.nav-links {
+.nav-lnks-wrppr {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -284,22 +284,22 @@ li {
     list-style-type: none;
     display: flex;
 }
-.nav-links a:link {
+.nav-lnks-wrppr a:link {
     color: #2c3e50; /* Default link color */
     text-decoration: none;
 }
 
-.nav-links a:visited {
+.nav-lnks-wrppr a:visited {
     color: #2c3e50; /* Same as default to remove the visited effect */
     text-decoration: none;
 }
 
-.nav-links a:hover {
+.nav-lnks-wrppr a:hover {
     color: #0388C9; /* Highlight on hover */
     text-decoration: none;
 }
 
-.nav-links a:active {
+.nav-lnks-wrppr a:active {
     color: #1b6ca8; /* Color when clicked */
     text-decoration: none;
 }
