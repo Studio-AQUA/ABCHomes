@@ -2281,7 +2281,8 @@
     position: relative;
 }
 .street-address {
-    width: 795px;
+    width: 100%;
+    position: relative;
     height: 49px;
     display: flex;
     flex-direction: row;
@@ -2289,6 +2290,10 @@
     justify-content: flex-start;
     padding: 0px 0px 0px 50px;
     box-sizing: border-box;
+    text-align: left;
+    font-size: 13px;
+    color: #2c3e50;
+    font-family: Montserrat;
 }
 .search-fields {
     width: 895px;
