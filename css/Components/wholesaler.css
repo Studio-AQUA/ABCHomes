@@ -115,7 +115,7 @@
 .textarea {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -147,7 +147,7 @@
 .textarea1 {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -182,7 +182,7 @@
 .textarea4 {
     width: 100%;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     overflow: hidden;
     display: flex;
     flex-direction: row;
@@ -277,7 +277,7 @@
 .icon-container {
     width: 142px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -285,7 +285,7 @@
     opacity: 0.4;
     text-align: center;
     font-size: 9px;
-    color: #d4af37;
+    color: #4DB7FE;
 }
 .frame-parent {
     display: flex;
@@ -294,7 +294,7 @@
     justify-content: flex-start;
     gap: 16px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .wholesaler-varient-secondrow-r-child {
     align-self: stretch;
@@ -303,7 +303,7 @@
 .textarea14 {
     width: 212px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     display: flex;
     flex-direction: row;
@@ -326,7 +326,7 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .switch-cntnr2 {
     align-self: stretch;
@@ -336,12 +336,12 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .textarea18 {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     display: flex;
     flex-direction: row;
