@@ -1525,6 +1525,8 @@
     width: 150px;
     height: 286.8px;
     object-fit: cover;
+    border: 1px solid #4DB7FE;
+
 }
 .left-half-circle-image {
     position: absolute;
@@ -1534,6 +1536,8 @@
     width: 150px;
     height: 286.8px;
     object-fit: cover;
+    border: 1px solid #4DB7FE;
+
 }
 .treatment-image {
     width: 330px;
