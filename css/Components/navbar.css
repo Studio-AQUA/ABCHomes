@@ -1,4 +1,15 @@
-/* Navigation*/
+/*nav*/
+
+
+
+
+
+
+/* Old Navigation*/
+.ul {
+    list-style-type: none;
+
+}
 .nav-logo-img {
     flex: 1;
     position: relative;
@@ -20,11 +31,11 @@
     line-height: 25px;
     color: #4db7fe;
 }
-    .listings {
+.listings {
     position: relative;
     line-height: 25px;
 }
-    .buyer {
+.buyer {
     position: relative;
     line-height: 25px;
     cursor: pointer;
