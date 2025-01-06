@@ -492,6 +492,8 @@ li {
     font-size: 13px;
     color: #2c3e50;
     font-family: Montserrat;
+    position: sticky;
+    top: 0;
 }
 
 
