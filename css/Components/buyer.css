@@ -173,6 +173,7 @@
     justify-content: center;
     height: 24px;
     flex-shrink: 0;
+    
 }
 .mdoutlinefileupload-parent {
     width: 70px;
@@ -198,7 +199,7 @@
     min-width: 280px;
     text-align: center;
     font-size: 9px;
-    color: #d4af37;
+    color: #0388C9;
 }
 .thumb {
     width: 16px;
