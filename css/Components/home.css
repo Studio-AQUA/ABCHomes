@@ -2362,21 +2362,6 @@
     justify-content: space-between;
     padding: 20px;
 }
-.home-hero-form {
-    width: 1060px;
-    margin: 0 !important;
-    position: absolute;
-    top: 212px;
-    left: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    z-index: 1;
-    text-align: left;
-    font-size: 13px;
-    font-family: Montserrat;
-}
 .hero-wrapper {
     position: relative;
     width: 100%;
