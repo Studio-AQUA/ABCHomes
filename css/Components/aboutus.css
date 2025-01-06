@@ -26,16 +26,9 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
-}
-.abt-us-hro-cntnr {
-    width: 1101px;
     position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     justify-content:center;
     padding: 0px 0px 50px;
-    box-sizing: border-box;
     text-align: center;
     font-size: 96px;
     color: #2c3e50;
