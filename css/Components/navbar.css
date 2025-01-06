@@ -262,7 +262,10 @@ li {
     text-align: left;
   }
   
-  .dropdown-content a:hover {background-color: #0388C9;}
+  .dropdown-content a:hover {
+    background-color: #0388C9;
+    color:white;
+}
   
   .dropdown:hover .dropdown-content {
     display: block;
