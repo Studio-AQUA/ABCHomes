@@ -25,7 +25,7 @@
     justify-content: center;
     padding: 50px 0px;
     box-sizing: border-box;
-    border: 1px solid #FFD858;
+    border: 1px solid #4DB7FE;
     background: linear-gradient(0deg, rgba(255, 255, 255, 0.75) 0%, rgba(255, 255, 255, 0.75) 100%), url(<path-to-image>) lightgray 50% / cover no-repeat;
     background-image: url('../../assets/images/seller:institutional-hero-image.png');
     background-size: cover;
@@ -112,7 +112,7 @@
 .inst-q-row1l-textarea {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -144,7 +144,7 @@
 .inst-q-row1r-textarea {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -219,7 +219,7 @@
 .number-input {
     width: 211px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -231,7 +231,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     font-size: 9px;
-    color: #ffd858;
+    color: #4DB7FE;
 }
 .switch-div {
     display: flex;
@@ -240,7 +240,7 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .inst-q-row3r {
     width: 280px;
@@ -264,7 +264,7 @@
     box-shadow: 0px 6px 15px rgba(64, 79, 104, 0.05);
     border-radius: 24px;
     background-color: #2c3e50;
-    border: 1px solid #ffd858;
+    border: 1px solid #4DB7FE;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -297,7 +297,7 @@
     box-sizing: border-box;
     text-align: left;
     font-size: 12px;
-    color: #ffd858;
+    color: #4DB7FE;
     font-family: Montserrat;
 }
 
