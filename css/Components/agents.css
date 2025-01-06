@@ -127,7 +127,7 @@
 .textarea {
     align-self: stretch;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -200,7 +200,7 @@
 .textarea2 {
     width: 210px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -221,7 +221,7 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .agnt-q-row-1 {
     align-self: stretch;
@@ -233,7 +233,7 @@
 .textarea3 {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -251,7 +251,7 @@
 .textarea5 {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -276,7 +276,7 @@
 .textarea7 {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 80px;
     overflow: hidden;
     flex-shrink: 0;
@@ -295,7 +295,7 @@
 .textarea8 {
     width: 210px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     display: flex;
     flex-direction: row;
@@ -314,12 +314,12 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .textarea10 {
     width: 210px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 80px;
     display: flex;
     flex-direction: row;
@@ -338,12 +338,12 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .textarea11 {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 80px;
     overflow: hidden;
     flex-shrink: 0;
@@ -361,7 +361,7 @@
 .textarea12 {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     display: flex;
     flex-direction: row;
