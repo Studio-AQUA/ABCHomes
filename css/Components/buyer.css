@@ -111,7 +111,7 @@
 .textarea {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -190,7 +190,7 @@
 .icon-container {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -244,7 +244,7 @@
 .buyer-short-enter-amount-in-us {
     width: 198px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -262,12 +262,12 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .buyer-enter-amount-in-usd-text {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     display: flex;
     flex-direction: row;
@@ -283,7 +283,7 @@
 .buyer-textarea {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     display: flex;
     flex-direction: row;
@@ -298,7 +298,7 @@
 .textarea5 {
     flex: 1;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: row;
     align-items: center;
