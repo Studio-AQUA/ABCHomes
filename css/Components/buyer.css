@@ -21,7 +21,7 @@
     justify-content: center;
     padding: 50px 0px;
     box-sizing: border-box;
-    border: 1px solid #FFD858;
+    border: 1px solid #0388C9;
     background: linear-gradient(0deg, rgba(255, 255, 255, 0.75) 0%, rgba(255, 255, 255, 0.75) 100%), url(<path-to-image>) lightgray 50% / cover no-repeat;
     background-image: url('../../assets/images/buyer-hero-image.png');
     background-size: cover;
@@ -252,7 +252,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     font-size: 9px;
-    color: #ffd858;
+    color: #0388C9;
 }
 .buyer-hard-money-line-div {
     display: flex;
@@ -341,7 +341,7 @@
     box-shadow: 0px 6px 15px rgba(64, 79, 104, 0.05);
     border-radius: 24px;
     background-color: #2c3e50;
-    border: 1px solid #ffd858;
+    border: 1px solid #0388C9;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -362,7 +362,7 @@
     box-sizing: border-box;
     text-align: left;
     font-size: 12px;
-    color: #ffd858;
+    color: #0388C9;
     font-family: Montserrat;
 }
 
