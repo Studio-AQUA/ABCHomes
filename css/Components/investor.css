@@ -24,7 +24,7 @@
     justify-content: center;
     padding: 50px 0px;
     box-sizing: border-box;
-    border: 1px solid #FFD858;
+    border: 1px solid #4DB7FE;
     background: linear-gradient(0deg, rgba(255, 255, 255, 0.75) 0%, rgba(255, 255, 255, 0.75) 100%), url(<path-to-image>) lightgray 50% / cover no-repeat;
     background-image: url('../../assets/images/seller:investor-hero-image.png');
     background-size: cover;
@@ -117,7 +117,7 @@
 .textarea {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -156,7 +156,7 @@
 .textarea1 {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -191,7 +191,7 @@
 .textarea6 {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     display: flex;
     flex-direction: row;
@@ -226,7 +226,7 @@
 .textarea9 {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 127px;
     overflow: hidden;
     flex-shrink: 0;
@@ -282,7 +282,7 @@
 .textarea10 {
     width: 213px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 20px;
     display: flex;
     flex-direction: row;
@@ -296,7 +296,7 @@
     min-height: 20px;
     max-height: 20px;
     font-size: 9px;
-    color: #ffd858;
+    color: #4DB7FE;
 }
 .frame-parent {
     display: flex;
@@ -305,12 +305,12 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .textarea12 {
     width: 212px;
     border-radius: 6px;
-    background-color: rgba(212, 175, 55, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -322,7 +322,7 @@
     min-height: 127px;
     max-height: 127px;
     font-size: 9px;
-    color: #ffd858;
+    color: #4DB7FE;
 }
 .frame-container {
     display: flex;
@@ -331,7 +331,7 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .frame-div {
     width: 218px;
@@ -342,7 +342,7 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(212, 175, 55, 0.2);
+    color: rgba(0, 0, 0, 0.2);
 }
 .bank-wire-information-child {
     width: 220px;
@@ -375,7 +375,7 @@
     box-shadow: 0px 6px 15px rgba(64, 79, 104, 0.05);
     border-radius: 24px;
     background-color: #2c3e50;
-    border: 1px solid #ffd858;
+    border: 1px solid #4DB7FE;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -409,6 +409,6 @@
     justify-content: center;
     text-align: left;
     font-size: 12px;
-    color: #ffd858;
+    color: #4DB7FE;
     font-family: Montserrat;
 }
