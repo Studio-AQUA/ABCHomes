@@ -123,7 +123,6 @@
     justify-content: flex-start;
     gap: 25px;
     list-style-type: none;
-    color: #2c3e50;
 }
 .nav-lnks-cntnr {
     flex: 1;
@@ -229,7 +228,7 @@ li {
   
   li a, .dropbtn {
     display: inline-block;
-    color: white;
+    color: #2c3e50;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
