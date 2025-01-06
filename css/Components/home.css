@@ -455,6 +455,8 @@
     border-radius: 60px;
     height: 350px;
     object-fit: cover;
+    border: 1px;
+    border-color: #4DB7FE;
 }
 .weve-seen-just {
     width: 300px;
