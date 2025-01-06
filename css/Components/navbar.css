@@ -262,10 +262,7 @@ li {
     text-align: left;
   }
   
-  .dropdown-content a:hover {
-    background-color: #0388C9;
-    color:white;
-}
+  .dropdown-content a:hover {background-color: #0388C9;}
   
   .dropdown:hover .dropdown-content {
     display: block;
@@ -298,7 +295,7 @@ li {
 }
 
 .nav-lnks-wrppr a:hover {
-    color: #0388C9; /* Highlight on hover */
+    color: #ffffff; /* Highlight on hover */
     text-decoration: none;
 }
 
