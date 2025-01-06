@@ -6,10 +6,6 @@
 
 
 /* Old Navigation*/
-.ul {
-    list-style-type: none;
-
-}
 .nav-logo-img {
     flex: 1;
     position: relative;
@@ -45,7 +41,11 @@
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
+    color: #2c3e50;
+    list-style-type: none;
+    display: flex;
     gap: 25px;
+}
 }
 .nav-lnks-cntnr {
     width: 561px;
