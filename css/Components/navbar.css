@@ -123,6 +123,7 @@
     justify-content: flex-start;
     gap: 25px;
     list-style-type: none;
+    color: #2c3e50;
 }
 .nav-lnks-cntnr {
     flex: 1;
