@@ -34,9 +34,9 @@
 .sale-home-hero-search-label {
     width: 94px;
     background-color: rgba(44, 62, 80, 0.7);
-    border-top: 1px solid #d4af37;
-    border-right: 1px solid #d4af37;
-    border-left: 1px solid #d4af37;
+    border-top: 1px solid #4DB7FE;
+    border-right: 1px solid #4DB7FE;
+    border-left: 1px solid #4DB7FE;
     box-sizing: border-box;
     display: flex;
     flex-direction: row;
@@ -204,9 +204,9 @@
 }
 .rent-home-hero-search-label {
     background-color: rgba(44, 62, 80, 0.7);
-    border-top: 1px solid #d4af37;
-    border-right: 1px solid #d4af37;
-    border-left: 1px solid #d4af37;
+    border-top: 1px solid #4DB7FE;
+    border-right: 1px solid #4DB7FE;
+    border-left: 1px solid #4DB7FE;
     display: none;
     flex-direction: row;
     align-items: center;
@@ -299,7 +299,7 @@
     text-align: center;
     z-index: 1;
     font-size: 17px;
-    color: #d4af37;
+    color: #4DB7FE;
     font-family: Roboto;
 }
 /*MARKETING SECTION*/
@@ -383,7 +383,7 @@
     gap: 5px;
     text-align: center;
     font-size: 16px;
-    color: #d4af37;
+    color: #4DB7FE;
 }
 .marketing-cntnr {
     width: 748px;
@@ -477,7 +477,7 @@
 }
 .pre-foreclosures {
     width: 300px;
-    border-bottom: 1px solid #d4af37;
+    border-bottom: 1px solid #4DB7FE;
     box-sizing: border-box;
     height: 30px;
     display: flex;
@@ -555,7 +555,7 @@
     padding: 25px 0px;
     box-sizing: border-box;
     gap: 10px;
-    color: #d4af37;
+    color: #4DB7FE;
 }
 .exp-cntnt-wrapper {
     width: 1000px;
@@ -574,7 +574,7 @@
     width: 425px;
     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
     border-radius: 10px;
-    background-color: #d4af37;
+    background-color: #4DB7FE;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -600,7 +600,7 @@
     width: 1101px;
     border-radius: 60px;
     background-color: #2c3e50;
-    border: 1px solid #d4af37;
+    border: 1px solid #4DB7FE;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -1787,7 +1787,7 @@
 .gmc-button-small {
     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
     border-radius: 10px;
-    background-color: #d4af37;
+    background-color: #4DB7FE;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -1850,7 +1850,7 @@
     box-sizing: border-box;
     text-align: center;
     font-size: 16px;
-    color: #d4af37;
+    color: #4DB7FE;
     font-family: Montserrat;
 }
 
@@ -1859,7 +1859,7 @@
     color: #454545;
 }
 .stress-free-no {
-    color: #d4af37;
+    color: #4DB7FE;
 }
 .home-form-title-container {
     position: relative;
@@ -1881,7 +1881,7 @@
     width: 310px;
     position: relative;
     border-radius: 30px 0px 0px 30px;
-    background-color: #d4af37;
+    background-color: #4DB7FE;
     height: 18px;
 }
 .status-bar {
@@ -2014,7 +2014,7 @@
     width: 90px;
     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
     border-radius: 10px;
-    background-color: #d4af37;
+    background-color: #4DB7FE;
     height: 41px;
     display: flex;
     flex-direction: row;
@@ -2039,7 +2039,7 @@
     box-sizing: border-box;
     gap: 20px;
     font-size: 21px;
-    color: #d4af37;
+    color: #4DB7FE;
     font-family: Baskervville;
 }
 .home-form-wrpr {
