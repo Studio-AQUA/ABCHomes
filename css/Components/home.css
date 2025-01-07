@@ -147,7 +147,7 @@
 .hm-hro-sctn {
     width: 100%;
     position: relative;
-    height: 600px;
+    height: 900px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -162,6 +162,25 @@
     font-size: 96px;
     color: #2c3e50;
     font-family: Raleway;
+    padding: 0px 0px 50px;
+    box-sizing: border-box;
+}
+.hm-hro-sctn img {
+    display: block;
+    width: 100%; /* Adjust as needed */
+    height: auto; /* Adjust as needed */
+    }
+      
+.hm-hro-sctn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    opacity: 0.75; /* 75% opacity */
+    pointer-events: none; /* Ensures clicks pass through the overlay */
 }
 /*MARKETING SECTION*/
 .marketing-cpyone {
