@@ -12,8 +12,8 @@
 }
 .lst-hro-cntnr {
     width: 100%;
-    border-radius: 60px;
-    height: 551px;
+    border-radius: 0px;
+    height: 900px;
     display: flex;
     flex-direction: column;
     align-items: center;
