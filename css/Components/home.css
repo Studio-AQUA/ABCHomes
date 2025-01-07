@@ -1933,7 +1933,7 @@
 .street-address-textarea {
     width: 520px;
     border-radius: 6px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.9);
     height: 43px;
     overflow: hidden;
     flex-shrink: 0;
@@ -1956,7 +1956,7 @@
 .city-textarea {
     width: 250px;
     border-radius: 6px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.9);
     height: 43px;
     overflow: hidden;
     flex-shrink: 0;
