@@ -142,17 +142,12 @@
     font-family: Montserrat;
 }
 .hm-hro-container {
-    position: relative;
-    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+    position: relative;
     gap: 52px;
-    text-align: center;
-    font-size: 96px;
-    color: #2c3e50;
-    font-family: Raleway;
 }
 .hm-hro-sctn {
     width: 100%;
