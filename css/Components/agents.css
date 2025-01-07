@@ -72,50 +72,6 @@
     pointer-events: none; /* Ensures clicks pass through the overlay */
 }
 /*agnt q cpy sctn*/
-.agnt-q-cpy {
-    align-self: stretch;
-    position: relative;
-    line-height: 30.8px;
-    text-transform: uppercase;
-    font-weight: 900;
-}
-.agnt-q-cpy1 {
-    align-self: stretch;
-    position: relative;
-    font-size: 16px;
-    line-height: 30.8px;
-    text-transform: uppercase;
-}
-.agnt-q-cpy-wrppr {
-    width: 1100px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 40px;
-}
-.agnt-q-cpy-cntnr {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-}
-.agnt-q-cpy-section {
-    width: 100%;
-    position: relative;
-    border-radius: 60px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 0px 0px 50px;
-    box-sizing: border-box;
-    text-align: left;
-    font-size: 28px;
-    color: #2c3e50;
-    font-family: Raleway;
-}
-/*agnt q sctn*/
 .agent-s {
     width: 321px;
     position: relative;
