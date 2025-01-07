@@ -15,7 +15,7 @@
     justify-content: flex-start;
 }
 .abt-us-hro-cntnr {
-    width: 892px;
+    width: 892px !important;
     } 
 /*abt us cpy sctn*/
 .abt-us-cpy-cntnr {
