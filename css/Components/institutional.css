@@ -112,7 +112,7 @@
 .inst-q-row1l-textarea {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.9);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -124,6 +124,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     font-size: 9px;
+    color: #e1e1e1;
 }
 .inst-q-row1l {
     height: 100%;
@@ -134,17 +135,30 @@
     gap: 16px;
     min-width: 280px;
     max-width: 280px;
-    min-height: 162px;
-    max-height: 162px;
+    min-height: 164px;
+    max-height: 164px;
+}
+.inst-q-row1c {
+    height: 164px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    min-width: 280px;
+    max-width: 280px;
+    min-height: 164px;
+    max-height: 164px;
 }
 .inst-q-row1r1 {
     position: relative;
     font-size: 12px;
+    color: #4db7fe;
 }
 .inst-q-row1r-textarea {
     width: 280px;
     border-radius: 6px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.9);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -157,7 +171,7 @@
     opacity: 0.4;
 }
 .inst-q-row1r {
-    height: 100%;
+    height: 164px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -165,9 +179,10 @@
     gap: 16px;
     min-width: 280px;
     max-width: 280px;
-    min-height: 162px;
-    max-height: 162px;
+    min-height: 164px;
+    max-height: 164px;
     font-size: 9px;
+    color: #e1e1e1;
 }
 .inst-q-row1 {
     align-self: stretch;
@@ -176,6 +191,20 @@
     align-items: center;
     justify-content: space-between;
     min-height: 159px;
+}
+.inst-q-row2l {
+    height: 164px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    min-width: 280px;
+    max-width: 280px;
+    min-height: 162px;
+    max-height: 164px;
+    font-size: 9px;
+    color: #e1e1e1;
 }
 .entry-title {
     position: relative;
@@ -219,7 +248,7 @@
 .number-input {
     width: 211px;
     border-radius: 6px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.9);
     height: 20px;
     overflow: hidden;
     flex-shrink: 0;
@@ -231,7 +260,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     font-size: 9px;
-    color: #4DB7FE;
+    color: #e1e1e1;
 }
 .switch-div {
     display: flex;
@@ -240,16 +269,28 @@
     justify-content: flex-start;
     gap: 6px;
     font-size: 14px;
-    color: rgba(0, 0, 0, 0.2);
+    color: rgba(0, 0, 0, 0.9);
+}
+.inst-q-row2c {
+    height: 164px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    min-width: 280px;
+    max-width: 280px;
+    min-height: 162px;
+    max-height: 164px;
 }
 .inst-q-row3r {
     width: 280px;
     background-color: rgba(255, 255, 255, 0);
-    height: 162px;
+    height: 164px;
     min-width: 280px;
     max-width: 280px;
     min-height: 162px;
-    max-height: 162px;
+    max-height: 164px;
 }
 .inst-q-wrppr1 {
     align-self: stretch;
@@ -257,14 +298,14 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    gap: 100px;
+    gap: 50px;
 }
 .inst-q-cntnr1 {
     align-self: stretch;
     box-shadow: 0px 6px 15px rgba(64, 79, 104, 0.05);
     border-radius: 24px;
     background-color: #2c3e50;
-    border: 1px solid #4DB7FE;
+    border: 1px solid #4db7fe;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -279,7 +320,7 @@
     justify-content: flex-start;
 }
 .inst-q-cntnr {
-    height: 786px;
+    height: 692px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -297,9 +338,8 @@
     box-sizing: border-box;
     text-align: left;
     font-size: 12px;
-    color: #4DB7FE;
+    color: #4db7fe;
     font-family: Montserrat;
 }
-
 
 
