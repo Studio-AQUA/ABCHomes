@@ -1,36 +1,21 @@
-/* Base styles */
-
 /* Media queries */
 @media (max-width: 992px) {
 /*abt us hro sctn*/
-.abt-us-q {
-    position: relative;
-    line-height: 80px;
-    font-weight: 900;
+.contact-us-page-1200px-abc-home {
+    width: 992px !important;
 }
-.abt-us-q-hro-ttl-cntnr {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
+.abt-us-hro-sctn {
+    width: 992px;
 }
-.abt-us-hro-cntnr {
-    width: 892px !important;
-    } 
-/*abt us cpy sctn*/
-.abt-us-cpy-cntnr {
-    width: 892px;
-}
-
 .abt-us-cpy-sctn {
     width: 992px;
 }
-
-.contact-us-page-1200px-abc-home {
-    width: 992px;
+.abt-us-hro-cntnr {
+    width: 892px;
+    } 
+.abt-us-cpy-cntnr {
+    width: 892px;
 }
-
-
 @media (max-width: 768px) {
     .container {
         width: 720px;
