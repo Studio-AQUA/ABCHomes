@@ -180,13 +180,6 @@
     line-height: 80px;
     font-weight: 900;
 }
-.home-hero-subtitle {
-    position: relative;
-    font-size: 26px;
-    line-height: 70px;
-    font-weight: 500;
-    color: #4db7fe;
-}
 .home-hero-title {
     display: flex;
     flex-direction: column;
