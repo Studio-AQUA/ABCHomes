@@ -43,18 +43,18 @@
 }
 .home-hero-image {
     width: 100%;
-position: relative;
-height: 550px;
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-padding: 50px 0px;
-box-sizing: border-box;
-text-align: center;
-font-size: 96px;
-color: #2c3e50;
-font-family: Raleway;
+    position: relative;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 96px;
+    color: #2c3e50;
+    font-family: Raleway;
     z-index: 0;
 }
 .search-for-your {
@@ -130,7 +130,7 @@ font-family: Raleway;
     width: 1060px;
     margin: 0 !important;
     position: absolute;
-    top: 612px;
+    top: 412px;
     left: 20px;
     display: flex;
     flex-direction: column;
@@ -142,12 +142,17 @@ font-family: Raleway;
     font-family: Montserrat;
 }
 .hm-hro-container {
+    position: relative;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    position: relative;
     gap: 52px;
+    text-align: center;
+    font-size: 96px;
+    color: #2c3e50;
+    font-family: Raleway;
 }
 .hm-hro-sctn {
     width: 100%;
