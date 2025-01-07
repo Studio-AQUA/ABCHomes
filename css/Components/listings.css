@@ -11,7 +11,7 @@
     justify-content: flex-start;
 }
 .lst-hro-cntnr {
-    width: 1101px;
+    width: 100%;
     border-radius: 60px;
     height: 551px;
     display: flex;
