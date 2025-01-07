@@ -32,12 +32,13 @@
     width: 892px !important;
 }
 .nav {
-    width: 992px;
+    width: 992px !important;
     
 }
 
-
-
+.logo-sctn {
+    width: 992px
+}
 
 
 
