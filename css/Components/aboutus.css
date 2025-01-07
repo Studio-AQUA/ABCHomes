@@ -73,9 +73,6 @@
     text-transform: uppercase;
     font-weight: 900;
 }
-.lorem-ipsum-dolor {
-    margin: 0;
-}
 .abt-us-cpy-container {
     align-self: stretch;
     position: relative;
@@ -113,6 +110,7 @@
 }
 .lorem-ipsum-dolor {
     margin: 0;
+    text-indent: 25px;
 }
 .abt-us-cpy-container {
     align-self: stretch;
