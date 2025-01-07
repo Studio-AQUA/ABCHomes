@@ -11,8 +11,7 @@
     justify-content: flex-start;
 }
 .abt-us-hro-cntnr {
-    width: 1101px;
-    border-radius: 60px;
+    width: 100%;
     height: 551px;
     display: flex;
     flex-direction: column;
