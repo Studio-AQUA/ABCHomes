@@ -180,14 +180,6 @@
     line-height: 80px;
     font-weight: 900;
 }
-.home-hero-title {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 10px;
-    gap: 10px;
-}
 .home-hero-copy-wrapper {
     display: flex;
     flex-direction: column;
@@ -2256,15 +2248,6 @@
     line-height: 70px;
     font-weight: 500;
     color: #4db7fe;
-}
-.home-hero-title {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 10px;
-    gap: 10px;
-    padding-top: 512px;
 }
 .home-hero-copy-wrapper {
     display: flex;
