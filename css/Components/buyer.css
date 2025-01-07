@@ -61,7 +61,7 @@
     opacity: 0.75; /* 75% opacity */
     pointer-events: none; /* Ensures clicks pass through the overlay */
 }
-/*byr q cpy section*/
+/*byr q sctn*/
 .full-name {
     position: relative;
     text-transform: uppercase;
@@ -335,6 +335,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 50px 0px;
 }
 .byr-q-sctn {
     width: 100%;
