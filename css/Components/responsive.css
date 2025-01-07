@@ -21,14 +21,15 @@
 .abt-us-cpy-cntnr {
     width: 892px;
 }
+
+.abt-us-cpy-sctn {
+    width: 992px;
+}
+
 .contact-us-page-1200px-abc-home {
     width: 992px;
 }
 
-
-
-
-}
 
 @media (max-width: 768px) {
     .container {
@@ -40,4 +41,5 @@
     .container {
         width: 960px;
     }
+}
 }
