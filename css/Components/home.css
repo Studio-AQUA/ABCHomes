@@ -2161,6 +2161,7 @@
     justify-content: center;
     padding: 10px;
     gap: 10px;
+    top: 512px;
 }
 .home-hero-copy-wrapper {
     display: flex;
