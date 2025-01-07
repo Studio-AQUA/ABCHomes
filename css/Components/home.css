@@ -304,23 +304,6 @@
     position: relative;
     gap: 52px;
 }
-.hm-hro-sctn {
-    width: 100%;
-    position: relative;
-    height: 900px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    background-image: url('hm hro sctn.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top;
-    text-align: center;
-    font-size: 96px;
-    color: #2c3e50;
-    font-family: Raleway;
-}
 .hm-hro-sctn img {
     display: block;
     width: 100%; /* Adjust as needed */
