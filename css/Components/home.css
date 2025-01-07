@@ -303,13 +303,7 @@
     justify-content: flex-start;
     position: relative;
     gap: 52px;
-}
-.hm-hro-sctn img {
-    display: block;
-    width: 100%; /* Adjust as needed */
-    height: auto; /* Adjust as needed */
-    }
-      
+}     
 .hm-hro-sctn::before {
     content: '';
     position: absolute;
