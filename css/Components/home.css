@@ -1656,8 +1656,8 @@
 }
 .treatment-section {
     width: 100%;
-    height: 100%;
     position: relative;
+    height: 525px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -1847,18 +1847,18 @@
     color: #454545;
 }
 .stress-free-no {
-    color: #4DB7FE;
+    color: #4db7fe;
 }
 .home-form-title-container {
     position: relative;
     line-height: 63.8px;
 }
 .home-form-title-cntnr {
+    height: 43px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    padding: 10px;
 }
 .status-bar-cpy {
     align-self: stretch;
@@ -1869,7 +1869,7 @@
     width: 310px;
     position: relative;
     border-radius: 30px 0px 0px 30px;
-    background-color: #4DB7FE;
+    background-color: #d4af37;
     height: 18px;
 }
 .status-bar {
@@ -1884,7 +1884,7 @@
 }
 .status-bar-cntnr {
     width: 620px;
-    display: flex;
+    display: none;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
@@ -1922,7 +1922,7 @@
     align-items: flex-start;
     justify-content: center;
 }
-.street-address-textarea1 {
+.name-textarea-cpy {
     width: 160.7px;
     position: relative;
     display: flex;
@@ -1930,7 +1930,7 @@
     height: 23.6px;
     flex-shrink: 0;
 }
-.street-address-textarea {
+.name-textarea {
     width: 520px;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
@@ -1945,7 +1945,7 @@
     box-sizing: border-box;
     opacity: 0.4;
 }
-.city-textarea-cpy {
+.email-textarea-cpy {
     width: 78.4px;
     position: relative;
     display: flex;
@@ -1953,7 +1953,7 @@
     height: 23.6px;
     flex-shrink: 0;
 }
-.city-textarea {
+.email-textarea {
     width: 250px;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
@@ -1968,12 +1968,27 @@
     box-sizing: border-box;
     opacity: 0.4;
 }
-.form-two-textarea-wrppr {
+.cntct-textarea-cntnr {
     width: 520px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
     justify-content: space-between;
+}
+.city-textarea {
+    width: 160px;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 43px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1px 2px 1px 20px;
+    box-sizing: border-box;
+    opacity: 0.4;
 }
 .state-textarea-cpy {
     width: 94.3px;
@@ -1983,26 +1998,25 @@
     height: 23.6px;
     flex-shrink: 0;
 }
-.form-textarea-wrppr {
+.home-for-sale-form {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
     gap: 16px;
     font-size: 9px;
-    color: #e1e1e1;
     font-family: Roboto;
 }
-.next-button-cpy {
+.submit-button-cpy {
     position: relative;
     line-height: 17px;
     text-transform: uppercase;
 }
-.next-button {
+.submit-button {
     width: 90px;
     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
     border-radius: 10px;
-    background-color: #4DB7FE;
+    background-color: #4db7fe;
     height: 41px;
     display: flex;
     flex-direction: row;
@@ -2027,20 +2041,17 @@
     box-sizing: border-box;
     gap: 20px;
     font-size: 21px;
-    color: #4DB7FE;
+    color: #4db7fe;
     font-family: Baskervville;
 }
-.home-form-wrpr {
-    width: 1100px;
+.home-form-cntnr {
+    align-self: stretch;
     border-radius: 60px;
-    height: 588px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 50px 0px;
-    box-sizing: border-box;
-    gap: 10px;
+    gap: 25px;
 }
 .home-form-section {
     width: 100%;
