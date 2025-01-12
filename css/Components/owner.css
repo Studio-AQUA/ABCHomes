@@ -140,10 +140,10 @@
     padding: 0px 0px 0px 10px;
     box-sizing: border-box;
     opacity: 0.4;
-    min-width: 198px;
-    max-width: 198px;
-    min-height: 20px;
-    max-height: 20px;
+    min-width: 212px;
+    max-width: 212px;
+    min-height: 80px;
+    max-height: 80px;
 }
 .textarea-parent {
     display: flex;
