@@ -1975,7 +1975,7 @@
     flex-shrink: 0;
 }
 .email-textarea {
-    width: 100%;
+    width: 250px;
     position: relative;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
@@ -2003,7 +2003,7 @@
     flex-shrink: 0;
 }
 .phone-textarea {
-    width: 100%;
+    width: 250px;
     position: relative;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
@@ -2031,7 +2031,7 @@
     flex-shrink: 0;
 }
 .street-address-textarea {
-    width: 100%;
+    width: 520px;
     position: relative;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
@@ -2059,7 +2059,7 @@
     flex-shrink: 0;
 }
 .city-textarea {
-    width: 100%;
+    width: 160px;
     position: relative;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
@@ -2086,7 +2086,7 @@
     flex-shrink: 0;
 }
 .state-textarea {
-    width: 100%;
+    width: 160px;
     position: relative;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
@@ -2114,7 +2114,7 @@
     flex-shrink: 0;
 }
 .zip-textarea {
-    width: 100%;
+    width: 160px;
     position: relative;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
