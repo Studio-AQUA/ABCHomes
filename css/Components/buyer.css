@@ -254,7 +254,7 @@
     width: 280px;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
-    height: 20px;
+    height: 40px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -263,7 +263,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     min-width: 280px;
-    min-height: 20px;
+    min-height: 40px;
     font-size: 9px;
     color: #e1e1e1;
 }
