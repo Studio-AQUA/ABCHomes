@@ -1952,6 +1952,11 @@
     padding: 1px 3px 1px 20px;
     box-sizing: border-box;
     opacity: 0.4;
+    position: relative;
+    text-align: left;
+    font-size: 9px;
+    color: #4db7fe;
+    font-family: Montserrat;
 }
 .name-textarea-cpy {
     width: 160.7px;
@@ -1960,26 +1965,6 @@
     align-items: center;
     height: 23.6px;
     flex-shrink: 0;
-}
-.name-textarea {
-    width: 100%;
-    position: relative;
-    border-radius: 6px;
-    background-color: rgba(0, 0, 0, 0.9);
-    height: 43px;
-    overflow: hidden;
-    flex-shrink: 0;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    padding: 1px 3px 1px 20px;
-    box-sizing: border-box;
-    opacity: 0.4;
-    text-align: left;
-    font-size: 9px;
-    color: #4db7fe;
-    font-family: Montserrat;
 }
 .email-textarea-cpy {
     width: 78.4px;
@@ -2101,6 +2086,34 @@
     flex-shrink: 0;
 }
 .state-textarea {
+    width: 100%;
+    position: relative;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 43px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1px 2px 1px 20px;
+    box-sizing: border-box;
+    opacity: 0.4;
+    text-align: left;
+    font-size: 9px;
+    color: #4db7fe;
+    font-family: Montserrat;
+}
+.zip-textarea-cpy {
+    width: 78.4px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 23.6px;
+    flex-shrink: 0;
+}
+.zip-textarea {
     width: 100%;
     position: relative;
     border-radius: 6px;
