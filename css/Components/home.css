@@ -94,7 +94,7 @@
 .home-hero-search-button {
     width: 109px;
     border-radius: 12px;
-    background-color: rgba(77, 183, 254, 0.2);
+    background-color: #4db7fe;
     height: 49px;
     display: flex;
     flex-direction: row;
