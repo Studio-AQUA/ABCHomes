@@ -837,7 +837,7 @@
     gap: 50px;
     font-size: 15px;
     color: #000;
-    font-family: Roboto;
+    font-family: Montserrat;
 }
 
 .no-hassle-guarantee {
@@ -1064,7 +1064,7 @@
   	box-sizing: border-box;
   	font-size: 15px;
   	color: #000;
-  	font-family: Roboto;
+  	font-family: Montserrat;
 }
 .testimonial-cntnr {
   	width: 1100px;
@@ -1292,7 +1292,7 @@
     box-sizing: border-box;
     font-size: 15px;
     color: #000;
-    font-family: Roboto;
+    font-family: Montserrat;
 }
 .testimonial-cntnr {
     width: 1100px;
@@ -1331,7 +1331,7 @@
     padding: 10px;
     font-size: 40px;
     color: #2c3e50;
-    font-family: Roboto;
+    font-family: Montserrat;
 }
 .have-a-home {
     align-self: stretch;
@@ -1953,6 +1953,34 @@
     box-sizing: border-box;
     opacity: 0.4;
 }
+.name-textarea-cpy {
+    width: 160.7px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 23.6px;
+    flex-shrink: 0;
+}
+.name-textarea {
+    width: 100%;
+    position: relative;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 43px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1px 3px 1px 20px;
+    box-sizing: border-box;
+    opacity: 0.4;
+    text-align: left;
+    font-size: 9px;
+    color: #4db7fe;
+    font-family: Montserrat;
+}
 .email-textarea-cpy {
     width: 78.4px;
     position: relative;
@@ -1962,7 +1990,8 @@
     flex-shrink: 0;
 }
 .email-textarea {
-    width: 250px;
+    width: 100%;
+    position: relative;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
     height: 43px;
@@ -1975,16 +2004,78 @@
     padding: 1px 2px 1px 20px;
     box-sizing: border-box;
     opacity: 0.4;
+    text-align: left;
+    font-size: 9px;
+    color: #4db7fe;
+    font-family: Montserrat;
 }
-.cntct-textarea-cntnr {
-    width: 520px;
+.phone-textarea-cpy {
+    width: 78.4px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 23.6px;
+    flex-shrink: 0;
+}
+.phone-textarea {
+    width: 100%;
+    position: relative;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 43px;
+    overflow: hidden;
+    flex-shrink: 0;
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
+    align-items: center;
     justify-content: space-between;
+    padding: 1px 2px 1px 20px;
+    box-sizing: border-box;
+    opacity: 0.4;
+    text-align: left;
+    font-size: 9px;
+    color: #4db7fe;
+    font-family: Montserrat;
+}
+.street-address-textarea1 {
+    width: 160.7px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 23.6px;
+    flex-shrink: 0;
+}
+.street-address-textarea {
+    width: 100%;
+    position: relative;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 43px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1px 3px 1px 20px;
+    box-sizing: border-box;
+    opacity: 0.4;
+    text-align: left;
+    font-size: 9px;
+    color: #4db7fe;
+    font-family: Montserrat;
+}
+.city-textarea-cpy {
+    width: 78.4px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 23.6px;
+    flex-shrink: 0;
 }
 .city-textarea {
-    width: 160px;
+    width: 100%;
+    position: relative;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
     height: 43px;
@@ -1997,8 +2088,11 @@
     padding: 1px 2px 1px 20px;
     box-sizing: border-box;
     opacity: 0.4;
-}
-.state-textarea-cpy {
+    text-align: left;
+    font-size: 9px;
+    color: #4db7fe;
+    font-family: Montserrat;
+}.state-textarea-cpy {
     width: 94.3px;
     position: relative;
     display: flex;
@@ -2006,14 +2100,62 @@
     height: 23.6px;
     flex-shrink: 0;
 }
+.state-textarea {
+    width: 100%;
+    position: relative;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 43px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1px 2px 1px 20px;
+    box-sizing: border-box;
+    opacity: 0.4;
+    text-align: left;
+    font-size: 9px;
+    color: #4db7fe;
+    font-family: Montserrat;
+}
+.cntct-textarea-cntnr {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-align: left;
+    font-size: 9px;
+    color: #4db7fe;
+    font-family: Montserrat;
+}
+.dtls-textarea-cntnr {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-align: left;
+    font-size: 9px;
+    color: #4db7fe;
+    font-family: Montserrat;
+}
 .fr-sl-form {
+    position: relative;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
     gap: 16px;
+    text-align: left;
     font-size: 9px;
-    font-family: Roboto;
+    color: #4db7fe;
+    font-family: Montserrat;
 }
 .sbmt-bttn-cpy {
     position: relative;
