@@ -411,6 +411,7 @@
     display: inline-block;
     height: 63px;
     flex-shrink: 0;
+    font-size: 13px;
 }
 .we-buy-houses {
     width: 300px;
