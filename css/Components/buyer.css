@@ -362,9 +362,11 @@ input {
     color: #ffffff;
     opacity: 1; /* Firefox */
     font-family: Montserrat;
+    font-size: 9px;
 }
 ::-ms-input-placeholder { /* Edge 12 -18 */
-    color: #4db7fe;
+    color: #ffffff;
     opacity: 1; /* Firefox */
     font-family: Montserrat;
+    font-size: 9px;
 }
