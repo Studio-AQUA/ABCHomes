@@ -454,6 +454,7 @@
     font-size: 12px;
     color: #4db7fe;
     font-family: Montserrat;
+    padding: 50px 0px 0px 50px;
     }
 .whlslr-q-cntnr {
     position: relative;
@@ -467,7 +468,7 @@
     font-size: 12px;
     color: #4db7fe;
     font-family: Montserrat;
-    padding: 0px 0px 50px;
+    padding: 50px 0px 0px 50px;
     }    
 .whlslr-q-sctn {
     width: 100%;
