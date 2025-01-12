@@ -414,7 +414,7 @@
     box-sizing: border-box;
     height: 692px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
