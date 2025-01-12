@@ -247,7 +247,7 @@
     align-items: center;
     justify-content: flex-start;
     gap: 6px;
-    font-size: 14px;
+    font-size: 9px;
     color: rgba(0, 0, 0, 0.9);
 }
 .buyer-enter-amount-in-usd-text {
@@ -349,7 +349,7 @@
     padding: 50px 0px 0px 50px;
     box-sizing: border-box;
     text-align: left;
-    font-size: 12px;
+    font-size: 9px;
     color: #4db7fe;
     font-family: Montserrat;
 }
@@ -367,4 +367,4 @@ input {
     color: #4db7fe;
     opacity: 1; /* Firefox */
     font-family: Montserrat;
-  }
+}
