@@ -2443,18 +2443,6 @@ input {
     color: #2c3e50;
     font-family: Montserrat;
 }
-.search-fields {
-    width: 895px;
-    border-radius: 12px;
-    background-color: #fff;
-    border: 1px solid #4db7fe;
-    box-sizing: border-box;
-    height: 41px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
-}
 .form-button-wrapper {
     width: 108px;
     display: flex;
