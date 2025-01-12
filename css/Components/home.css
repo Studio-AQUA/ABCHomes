@@ -2171,6 +2171,10 @@ form {
     color: #4db7fe;
     font-family: Montserrat;
 }
+::placeholder {
+    color: #4db7fe;
+    font-family: Montserrat;
+}
 .fr-sl-form {
     position: relative;
     width: 100%;
