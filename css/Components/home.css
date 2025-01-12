@@ -64,12 +64,15 @@
     justify-content: flex-start;
     padding: 0px 0px 0px 50px;
     box-sizing: border-box;
+
 }
 .search-fields {
     width: 895px;
     border-radius: 12px;
-    background-color: #fff;
-    border: 1px solid #4db7fe;
+    background-color: rgba(0, 0, 0, 0.9);
+    border-color: #4db7fe;
+    border-width: 2px;
+    border-style: inset;
     box-sizing: border-box;
     height: 41px;
     display: flex;
