@@ -23,6 +23,7 @@
 .home-hero-subtitle {
     position: relative;
     font-size: 26px;
+    font-weight: 800;
     line-height: 70px;
     font-weight: 500;
     color: #4db7fe;
@@ -2414,13 +2415,6 @@ input {
     font-size: 32px;
     color: #4DB7FE;
     font-family: Montserrat;
-}
-.home-hero-subtitle {
-    position: relative;
-    font-size: 26px;
-    line-height: 70px;
-    font-weight: 500;
-    color: #4db7fe;
 }
 .home-hero-copy-wrapper {
     display: flex;
