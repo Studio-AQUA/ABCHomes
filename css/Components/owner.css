@@ -128,6 +128,23 @@
     min-height: 20px;
     max-height: 20px;
 }
+.textarea7 {
+    width: 100%;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.9);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 0px 0px 10px;
+    box-sizing: border-box;
+    opacity: 0.4;
+    min-width: 198px;
+    max-width: 198px;
+    min-height: 20px;
+    max-height: 20px;
+}
 .textarea-parent {
     display: flex;
     flex-direction: column;
