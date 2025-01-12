@@ -154,7 +154,7 @@
     gap: 6px;
 }
 .textarea2 {
-    width: 210px;
+    width: 200px;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
     display: flex;
@@ -164,8 +164,8 @@
     padding: 0px 0px 0px 10px;
     box-sizing: border-box;
     opacity: 0.4;
-    min-width: 210px;
-    min-height: 20px;
+    min-width: 200px;
+    min-height: 40px;
     font-size: 9px;
     color: #ffffff;
 }
