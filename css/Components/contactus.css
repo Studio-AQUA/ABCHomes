@@ -276,7 +276,7 @@ input {
     overflow: hidden;
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
     justify-content: flex-start;
     padding: 0px 0px 0px 10px;
     box-sizing: border-box;
@@ -295,6 +295,8 @@ input {
         flex-shrink: 0;
         display: flex;
         flex-direction: row;
+        align-items: center;
+        justify-content: center;
         padding: 0px 0px 0px 10px;
         box-sizing: border-box;
         opacity: 0.4;
