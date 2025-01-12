@@ -276,9 +276,8 @@ input {
     overflow: hidden;
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
-    justify-content: flex-start;
-    padding: 0px 0px 0px 10px;
+    top: 15px;
+    left: 15px;
     box-sizing: border-box;
     opacity: 0.4;
     min-width: 500px;
