@@ -52,9 +52,6 @@
     box-sizing: border-box;
     z-index: 0;
 }
-.search-for-your {
-    position: relative;
-}
 .street-address {
     width: 895px;
     height: 49px;
@@ -197,6 +194,7 @@
 }
 .search-for-your {
     position: relative;
+    color: #4db7fe;
 }
 .street-address {
     width: 895px;
@@ -218,18 +216,6 @@
     justify-content: center;
     height: 28.5px;
     flex-shrink: 0;
-}
-.home-hero-search-button {
-    width: 109px;
-    border-radius: 12px;
-    background-color: rgba(77, 183, 254, 0.2);
-    height: 49px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    padding: 10px 31px;
-    box-sizing: border-box;
 }
 .form-button-wrapper {
     width: 108px;
@@ -2442,9 +2428,6 @@ input {
     align-items: center;
     justify-content: flex-start;
 }
-.search-for-your {
-    position: relative;
-}
 .street-address {
     width: 100%;
     position: relative;
@@ -2471,18 +2454,6 @@ input {
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-}
-.home-hero-search-button {
-    width: 109px;
-    border-radius: 12px;
-    background-color: rgba(77, 183, 254, 0.2);
-    height: 49px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    padding: 10px 31px;
-    box-sizing: border-box;
 }
 .form-button-wrapper {
     width: 108px;
