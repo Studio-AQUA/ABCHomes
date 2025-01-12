@@ -248,6 +248,9 @@
     max-width: 280px;
     min-height: 80px;
     font-size: 9px;
+    top: 15px;
+    left: 15px;
+    position: relative;
 
 }
 .textarea8 {
@@ -362,7 +365,7 @@
     box-sizing: border-box;
     height: 906px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
