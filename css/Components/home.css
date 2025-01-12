@@ -525,7 +525,7 @@
     justify-content: flex-start;
     font-size: 26px;
     color: #fff;
-    font-family: 'Libre Baskerville';
+    font-family: 'Montserrat';
 }
 .process-section-content {
     width: 300px;
@@ -1796,7 +1796,7 @@
     gap: 10px;
     font-size: 32px;
     color: #fff;
-    font-family: Baskervville;
+    font-family: Montserrat;
 }
 .method-rowtwo {
     align-self: stretch;
@@ -2234,7 +2234,7 @@ input {
     gap: 20px;
     font-size: 21px;
     color: #4db7fe;
-    font-family: Baskervville;
+    font-family: Montserrat;
 }
 .home-form-cntnr {
     align-self: stretch;
