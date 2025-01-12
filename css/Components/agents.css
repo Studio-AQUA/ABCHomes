@@ -398,6 +398,7 @@
     border-width: 2px;
     border-style: inset;
     padding: 10px 0px 0px 10px;
+    text-align: start;
 }
 ::placeholder {
     color: #ffffff;
