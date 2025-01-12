@@ -244,10 +244,10 @@
     gap: 6px;
 }
 .number-input {
-    width: 198px;
+    width: 200px;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
-    height: 20px;
+    height: 40px;
     overflow: hidden;
     flex-shrink: 0;
     display: flex;
