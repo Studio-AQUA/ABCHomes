@@ -270,7 +270,7 @@ input {
     max-height: 40px;
 }
 .textarea19 {
-    width: 220px;
+    width: 500px;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
     overflow: hidden;
@@ -281,13 +281,13 @@ input {
     padding: 0px 0px 0px 10px;
     box-sizing: border-box;
     opacity: 0.4;
-    min-width: 220px;
-    max-width: 220px;
+    min-width: 500px;
+    max-width: 500px;
     min-height: 275px;
     max-height: 275px;
     }
     .textarea15 {
-        width: 280px;
+        width: 500px;
         border-radius: 6px;
         background-color: rgba(0, 0, 0, 0.9);
         height: 20px;
@@ -300,10 +300,10 @@ input {
         padding: 0px 0px 0px 10px;
         box-sizing: border-box;
         opacity: 0.4;
-        min-width: 280px;
-        max-width: 280px;
-        min-height: 40px;
-        max-height: 40px;
+        min-width: 500px;
+        max-width: 500px;
+        min-height: 46px;
+        max-height: 46px;
         font-size: 9px;
         color: #ffffff;
     }
