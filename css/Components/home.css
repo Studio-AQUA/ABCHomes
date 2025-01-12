@@ -2157,7 +2157,7 @@
     color: #4db7fe;
     font-family: Montserrat;
 }
-form .fr-sl {
+form {
     position: relative;
     width: 100%;
     display: flex;
