@@ -1905,11 +1905,12 @@
     letter-spacing: 1px;
     line-height: 27.5px;
     text-transform: capitalize;
+    font-size: 20px;
 }
 .fast {
     width: 74px;
     position: relative;
-    font-size: 23px;
+    font-size: 22px;
     letter-spacing: 1px;
     line-height: 27.5px;
     text-transform: capitalize;
