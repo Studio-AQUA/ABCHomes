@@ -1954,7 +1954,7 @@
     opacity: 0.4;
     position: relative;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }
@@ -1990,7 +1990,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }
@@ -2018,7 +2018,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }
@@ -2046,7 +2046,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }
@@ -2074,7 +2074,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }.state-textarea-cpy {
@@ -2101,7 +2101,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }
@@ -2129,7 +2129,7 @@
     box-sizing: border-box;
     opacity: 0.4;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }
@@ -2141,7 +2141,7 @@
     align-items: flex-start;
     justify-content: space-between;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }
@@ -2153,7 +2153,7 @@
     align-items: flex-start;
     justify-content: space-between;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }
@@ -2167,7 +2167,7 @@ form {
     justify-content: flex-start;
     gap: 16px;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }
@@ -2195,7 +2195,7 @@ input {
     justify-content: flex-start;
     gap: 16px;
     text-align: left;
-    font-size: 9px;
+    font-size:11px;
     color: #4db7fe;
     font-family: Montserrat;
 }
