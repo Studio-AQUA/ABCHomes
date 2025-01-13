@@ -416,19 +416,19 @@ input {
     min-width: 280px;
     max-width: 280px;
     min-height: 40px;
-    max-height: 80px;
+    max-height: 100px;
     }
 
-    .icon-container {
-        width: 280px;
-        border-radius: 6px;
-        background-color: rgba(0, 0, 0, 0.9);
-        display: flex;
-        flex-direction: row;
-        align-items: flex-start;
-        justify-content: center;
-        opacity: 0.4;
-        min-width: 280px;
-        text-align: center;
-        font-size: 9px;
-    }
+.icon-container {
+    width: 280px;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    opacity: 0.4;
+    min-width: 280px;
+    text-align: center;
+    font-size: 9px;
+}
