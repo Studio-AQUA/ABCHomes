@@ -207,7 +207,7 @@
     max-height: 20px;
 }
 .textarea-wrapper {
-    width: 220px;
+    width: 280px;
     height: 20px;
     display: flex;
     flex-direction: row;
@@ -227,7 +227,7 @@
     color: #e1e1e1;
 }
 .textarea9 {
-    width: 220px;
+    width: 280px;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
     overflow: hidden;
@@ -280,7 +280,7 @@
     gap: 6px;
 }
 .textarea10 {
-    width: 213px;
+    width: 280px;
     border-radius: 6px;
     background-color: rgba(0, 0, 0, 0.9);
     height: 20px;
