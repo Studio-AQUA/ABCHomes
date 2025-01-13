@@ -345,6 +345,7 @@ input {
     border-width: 2px;
     padding: 10px 0px 0px 10px;
     border-style: inset;
+    align-content: center;
 }
 ::placeholder {
     color: #ffffff;
