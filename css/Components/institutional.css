@@ -393,7 +393,7 @@ input {
     box-sizing: border-box;
     opacity: 0.4;
     min-width: 280px;
-    min-height: 20px;
+    min-height: 280px;
     font-size: 9px;
     color: #ffffff;
 }
