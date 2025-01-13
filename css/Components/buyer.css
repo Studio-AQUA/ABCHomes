@@ -343,6 +343,7 @@
 input {
     border-color: #4db7fe;
     border-width: 2px;
+    padding: 10px 0px 0px 10px;
     border-style: inset;
 }
 ::placeholder {
@@ -410,6 +411,7 @@ input {
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
+    padding: 10px 0px 0px 10px;
     box-sizing: border-box;
     opacity: 0.4;
     min-width: 280px;
