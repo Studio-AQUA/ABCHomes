@@ -206,6 +206,8 @@
     padding: 2px;
     box-sizing: border-box;
     position: relative;
+    gap: 10px;
+    position: relative;
 }
 .no {
     position: relative;
@@ -426,7 +428,6 @@ input {
     min-height: 40px;
     max-height: 100px;
     }
-
 .icon-container {
     width: 280px;
     border-radius: 6px;
