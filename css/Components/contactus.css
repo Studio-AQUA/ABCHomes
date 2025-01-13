@@ -277,15 +277,13 @@ input {
     overflow: hidden;
     display: flex;
     flex-direction: row;
-    top: 15px;
-    left: 15px;
     box-sizing: border-box;
     opacity: 0.4;
     min-width: 500px;
     max-width: 500px;
     min-height: 275px;
     max-height: 275px;
-    justify-content: 15px;
+
     }
     .textarea15 {
         width: 500px;
