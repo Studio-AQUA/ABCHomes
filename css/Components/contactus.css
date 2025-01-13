@@ -285,6 +285,7 @@ input {
     max-width: 500px;
     min-height: 275px;
     max-height: 275px;
+    justify-content: 15px;
     }
     .textarea15 {
         width: 500px;
