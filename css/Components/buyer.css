@@ -216,6 +216,7 @@
 }
 .buyer-hard-money-line-toggle {
     display: flex;
+    width:max-content;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
